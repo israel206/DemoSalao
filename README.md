@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="DemoSalao" src=".github/DemoSalao.gif" width="90%">
+  <img alt="DemoSalao" src=".github/DemoSalao.gif" width="80%">
 </p>
 
 ---
